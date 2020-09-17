@@ -1,1 +1,1 @@
-https://nevold.github.io/rsschool-cv/index.html
+https://nevold.github.io/rsschool-cv/cv
