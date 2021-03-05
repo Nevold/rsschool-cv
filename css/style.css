@@ -45,13 +45,14 @@ ol {
 .contact {
   margin-top: 10px;
 }
-.code {
-  margin: 0;
-  padding: 0;
-  position: relative;
-  right: 115px;
-}
+
 .avatar {
   position: relative;
   right: 20px;
 }
+
+figure {
+  padding: 0;
+  margin: 0;
+}
+
