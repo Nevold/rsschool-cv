@@ -37,9 +37,10 @@ li {
   font-weight: bold;
 }
 
-ol {
+.contact-list {
   margin: 0;
   padding: 0;
+  display: block;
 }
 
 .contact {
@@ -58,5 +59,9 @@ figure {
 .code-wrapper {
   position: relative;
   right: 295px;
+}
+
+figcaption {
+  display: none;
 }
 
