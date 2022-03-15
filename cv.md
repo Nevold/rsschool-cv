@@ -18,3 +18,11 @@ JavaScript – Basic knowledge
 ### Experience
 
 [Course HTML Academy](https://htmlacademy.ru/profile/nevold/achievements)
+
+### Education
+
+Belarusian State University (faculty of mathematics)
+
+### English
+
+A2
