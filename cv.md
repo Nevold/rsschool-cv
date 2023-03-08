@@ -14,6 +14,7 @@ I can use my ability to communicate with people and take advantage of all my kno
 
 HTML, CSS – Intermediate knowledge
 JavaScript – Basic knowledge
+React - Basic knowledge
 
 ### Experience
 
